@@ -6,7 +6,7 @@ This project investigates how generative LLMs reconstruct scrambled text under T
 
 本项目研究大规模语言模型（LLM）如何在 **typoglycemia-style** 单词扰动下进行语义重建，分析其对 **词形（word form）** 和 **上下文（contextual information）** 的依赖性，并揭示其 **注意力分配模式**。
 
----
+
 
 # 🚀 Features | 主要特性
 
@@ -30,7 +30,7 @@ This project investigates how generative LLMs reconstruct scrambled text under T
   Designed for global accessibility and open research contributions.  
   旨在提供全球可用性，并支持开源研究贡献。
 
----
+
 
 # 🛠 Installation | 安装指南 
 
@@ -46,7 +46,7 @@ conda activate typo-llm
 
 This section explains how to run experiments, including data preprocessing, model inference, and results analysis.
 
----
+
 
 ## 1️⃣ Generate Experimental Data ｜ 生成实验数据
 To conduct experiments, you need to generate a dataset with typoglycemia-style scrambled text and context masking.
