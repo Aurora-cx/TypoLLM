@@ -89,7 +89,7 @@ python scripts/analysis/q1/consistency.py --scale 1000
 python scripts/analysis/q1/negative_correlation.py
 ```
 
-## 3️⃣ Q2 Semantic Reconstruction under Controlled Conditions｜ 实验2：控制条件下的语义重建观察
+## 3️⃣ Q2 Semantic Reconstruction under Controlled Conditions｜ 实验2：控制条件下的语义重建
 
 We observe semantic reconstruction capabilities under controlled scramble ratios and contextual information.
 我们在控制扰动比率和上下文信息的条件下观察语义重建能力。
