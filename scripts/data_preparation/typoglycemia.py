@@ -7,7 +7,7 @@ seed = 42
 random.seed(seed)
 
 from transformers import AutoTokenizer
-my_token = "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"
+my_token = "your token here"
 model_name = "meta-llama/Llama-3.2-3B-Instruct"
 tokenizer = AutoTokenizer.from_pretrained(model_name,token=my_token)
 
